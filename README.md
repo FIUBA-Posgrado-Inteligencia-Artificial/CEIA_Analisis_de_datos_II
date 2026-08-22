@@ -1,4 +1,4 @@
-# Analisis de datos_II - FIUBA - Laboratorio de Sistemas Embebidos
+# Analisis de datos II - FIUBA - Laboratorio de Sistemas Embebidos
 
 ![](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos_II/blob/main/banner.png)
 
