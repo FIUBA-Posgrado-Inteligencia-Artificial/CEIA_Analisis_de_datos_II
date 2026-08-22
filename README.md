@@ -1,4 +1,5 @@
-# CEIA_Analisis_de_datos_II
+# Analisis de datos_II - FIUBA - Laboratorio de Sistemas Embebidos
+
 ![](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos_II/blob/main/banner.png)
 
 
@@ -13,7 +14,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
 
 
 ---
-### ⚠️ Recordá que las diapositivas de las clases se encuentran en el [Campus posgrado de la FIUBA](https://campusposgrado.fi.uba.ar/course/view.php?id=240).
+### ⚠️ Recordá que las diapositivas de las clases se encuentran en el [Campus posgrado de la FIUBA](https://campusposgrado.fi.uba.ar/course/view.php?id=494).
 
 
 ---
