@@ -15,11 +15,11 @@ Podés descargar los materiales directamente desde la interfaz de GitHub sin nec
 
 **Notas**:
 - Esta opción es la más sencilla si no estás familiarizado con Git.
-- El archivo ZIP/TAR.GZ contiene todos los documentos del repositorio tal como estaban al final de tu cohorte.
+- El archivo ZIP/TAR.GZ contiene todos los documentos del repositorio tal como estaban al final del curso.
 
 
 #### Opción 2: clonar el repositorio usando Git 
-También se puede clonar el repositorio directamente y acceder a los materiales de tu cohorte utilizando la etiqueta (tag) correspondiente.
+También se puede clonar el repositorio directamente y acceder a los materiales utilizando la etiqueta (tag) correspondiente.
 
 **Prerrequisitos**:
 - Tener Git instalado en tu computadora.
@@ -39,7 +39,7 @@ Navegar al directorio del repositorio:
 cd CEIA_Analisis_de_datos_II
 ```
 
-Seleccioná el repo de tu cohorte, con el tag correspondiente. Debe tener la forma `bX-YYYY`, donde `X` es el bimestre y `YYYY` es el año:
+Seleccioná el repo de interés, con el tag correspondiente. Debe tener la forma `bX-YYYY`, donde `X` es el bimestre en el que se dictó la materia y `YYYY` es el año:
 
 ```bash
 git checkout bX-YYYY
@@ -53,7 +53,7 @@ git checkout b4-2026
 
 Notas:
 
-* En el ejemplo, el tag te lleva al estado exacto del repositorio al final de tu cohorte.
+* En el ejemplo, el tag te lleva al estado exacto del repositorio al final del curso.
 
 
 * Estarás en un estado de "HEAD separado" al usar "git checkout {tag}". Esto es normal y te permite ver los archivos sin modificarlos. 
@@ -70,7 +70,7 @@ https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 
 2. En el desplegable de las branches (donde dice "main" por defecto), seleccioná la pestaña "Tags".
 
-3. Elegí la etiqueta de tu cohorte (por ejemplo, b4-2026).
+3. Elegí la etiqueta correspondiente a tu cursada (por ejemplo, b4-2026).
 
 4. Navegá por los archivos (por ejemplo, notebooks/, datasets/) y descárgalos individualmente haciendo click-->"Download" o copiando el contenido desde la vista "Raw".
 
