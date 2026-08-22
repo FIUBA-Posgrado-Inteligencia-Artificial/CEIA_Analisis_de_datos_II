@@ -1,7 +1,7 @@
-## Materiales de Cohortes Anteriores
+## Materiales de bimestres anteriores
 
-Los materiales de cada cohorte están archivados en una etiqueta (tag) específica de Git y disponibles a través de una versión (release) en GitHub.
-Si sos estudiante de una cohorte anterior (por ejemplo, Cohorte 24 - 4to Bimestre 2026), podés acceder a los materiales completos de tu curso utilizando las siguientes opciones: 
+Los materiales de cada bimestre en el que se dictó la materia están archivados en una etiqueta (tag) específica de Git y disponibles a través de una versión (release) en GitHub.
+Si cursaste en un bimestre anterior (por ejemplo, 4to bimestre del 2026), podés acceder a los materiales completos de tu curso utilizando las siguientes opciones: 
 
 
 #### Opción 1: Descargar los Materiales desde la página de releases 
@@ -9,7 +9,7 @@ Podés descargar los materiales directamente desde la interfaz de GitHub sin nec
 
 **Pasos**:
 1. Visitá la página de [*Releases*](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos_II/releases) del repositorio.
-2. En la sección de la versión correspondiente (por ejemplo, "Coh24-4B2026"), encontrarás:
+2. En la sección de la versión correspondiente (por ejemplo, "4B2026"), encontrarás:
    - Un enlace para descargar el código fuente como archivo ZIP o TAR.GZ (etiquetado como "Source code (zip)" o "Source code (tar.gz)").
 3. Hacé click en el link de descarga (ZIP o TAR.GZ) o en el archivo adjunto y descomprimilo en tu computadora.
 
@@ -39,16 +39,16 @@ Navegar al directorio del repositorio:
 cd CEIA_Analisis_de_datos_II
 ```
 
-Seleccioná el repo de tu cohorte, con el tag correspondiente. Debe tener la forma `cohXX-bX-YYYY`, donde `XX` es el número de la cohorte, `X` es el bimestre y `YYYY` es el año:
+Seleccioná el repo de tu cohorte, con el tag correspondiente. Debe tener la forma `bX-YYYY`, donde `X` es el bimestre y `YYYY` es el año:
 
 ```bash
-git checkout cohXX-bX-YYYY
+git checkout bX-YYYY
 ```
 
-Por ejemplo, los alumnos de la cohorte 24 que cursaron durante el cuarto bimestre de 2026, deberían usar la etiqueta "coh24-b4-2026":
+Por ejemplo, los alumnos que cursaron durante el cuarto bimestre de 2026, deberían usar la etiqueta "b4-2026":
 
 ```bash
-git checkout coh24-b4-2026
+git checkout b4-2026
 ```
 
 Notas:
@@ -70,7 +70,7 @@ https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 
 2. En el desplegable de las branches (donde dice "main" por defecto), seleccioná la pestaña "Tags".
 
-3. Elegí la etiqueta de tu cohorte (por ejemplo, coh24-b4-2026).
+3. Elegí la etiqueta de tu cohorte (por ejemplo, b4-2026).
 
 4. Navegá por los archivos (por ejemplo, notebooks/, datasets/) y descárgalos individualmente haciendo click-->"Download" o copiando el contenido desde la vista "Raw".
 
