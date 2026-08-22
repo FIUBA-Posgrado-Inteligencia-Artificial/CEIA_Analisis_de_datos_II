@@ -18,7 +18,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
 
 
 ---
-### 🎓 ¿Sos alumno de una cohorte anterior? Encontrá [aquí](recursos/guia-coh-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
+### 🎓 ¿Cursasre en un bimestre anterior? Encontrá [aquí](recursos/guia-bimestre-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
 
 ---
