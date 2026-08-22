@@ -1,0 +1,32 @@
+name: add2-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+
+  # Jupyter
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+
+  # Data science / ML
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - missingno
+  - umap-learn
+  - xgboost
+  - lightgbm
+  - shap
+  - lime
+  - imbalanced-learn
+  - pillow
+  - evidently
+
+  - pip
+  - pip:
+    - alibi
