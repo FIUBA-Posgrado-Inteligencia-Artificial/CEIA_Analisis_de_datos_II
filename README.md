@@ -18,7 +18,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
 
 
 ---
-### 🎓 ¿Cursasre en un bimestre anterior? Encontrá [aquí](recursos/guia-bimestre-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
+### 🎓 ¿Cursaste en un bimestre anterior? Encontrá [aquí](recursos/guia-bimestre-anterior.md) las instrucciones para descargar los contenidos correspondientes a tu curso y bimestre.
 
 
 ---
