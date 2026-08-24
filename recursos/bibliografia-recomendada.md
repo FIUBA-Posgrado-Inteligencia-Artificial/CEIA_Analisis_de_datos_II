@@ -6,3 +6,6 @@
 
 * [Chip Huyen Github - Resúmenes del libro](https://github.com/chiphuyen/dmls-book/tree/main)
 
+* [Fairness and Machine Learning - Solon Barocas, Moritz Hardt, Arvind Narayanan](https://www.fairmlbook.org/pdf/fairmlbook.pdf)
+
+* [The Elements of Statistical Learning - Hastie, Tibshirani, Friedman (Second Edition, Springer)](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
