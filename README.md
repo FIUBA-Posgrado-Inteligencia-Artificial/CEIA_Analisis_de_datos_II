@@ -31,12 +31,18 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
         <td>Tema</td>
         <td>Notebooks</td>
     </tr>
-<!--
     <tr>
-        <td>1️⃣</td>
-        <td>Introducción al Análisis de Datos</td>
-        <td><a href=notebooks/clase_01_introduccion.ipynb>Introducción a Pandas. Ejemplos para importar datos desde distintas fuentes</a></td>
+        <td rowspan="3">1️⃣</td>
+        <td rowspan="3">Fundamentos de XAI e interpretabilidad de modelos</td>
+        <td><a href=notebooks/clase_01_a_XAI_global_regresion.ipynb>Interpretabilidad global - Regresión</a></td>
     </tr>
+    <tr>
+        <td><a href=notebooks/clase_01_b_XAI_global_clasificacion_binaria.ipynb>Intepretabilidad global - clasificación binaria</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_01_c_XAI_global_clasificacion_multiclase.ipynb>Intepretabilidad global - clasificación multiclase</a></td>
+    </tr>
+    <!--
     <tr>
         <td rowspan="2">2️⃣</td>
         <td rowspan="2">Análisis exploratorio de datos (EDA).<br>

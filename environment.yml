@@ -4,29 +4,34 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-
-  # Jupyter
-  - jupyterlab
-  - ipykernel
-  - ipywidgets
-
-  # Data science / ML
-  - numpy
   - pandas
-  - scipy
-  - scikit-learn
-  - matplotlib
-  - seaborn
-  - missingno
-  - umap-learn
-  - xgboost
-  - lightgbm
-  - shap
-  - lime
-  - imbalanced-learn
-  - pillow
+  - numpy
   - evidently
-
+  - lightgbm
+  - missingno
+  - shap
+  - jupyterlab
+  - scikit-learn
+  - xgboost
+  - ipykernel
+  - lime
+  - umap-learn
+  - scipy
+  - ipywidgets
+  - seaborn
+  - matplotlib
+  - imbalanced-learn
+  - great-expectations
+  - pyod
+  - hdbscan
+  - featuretools
+  - category_encoders
+  - opentsne
+  - feature_engine
+  - aif360
+  - fairlearn
+  - pillow
   - pip
   - pip:
     - alibi
+    - aequitasy
