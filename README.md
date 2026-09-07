@@ -42,27 +42,33 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
     <tr>
         <td><a href=notebooks/clase_01_c_XAI_global_clasificacion_multiclase.ipynb>Intepretabilidad global - clasificación multiclase</a></td>
     </tr>
+    <tr>
+        <td rowspan="5">2️⃣</td>
+        <td rowspan="5">Explicabilidad local<br>
+        SHAP y LIME.</td>
+        <td><a href=notebooks/clase_02_a_shap.ipynb>SHAP</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_02_b_shap_regresion_lineal.ipynb>SHAP - Regresión lineal</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_02_c_shap_regresion_arboles.ipynb>SHAP - Regresión - Árboles</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_02_d_shap_clasificacion.ipynb>SHAP - Clasificación</a></td>
+    </tr>
+        <tr>
+        <td><a href=notebooks/clase_02_shap_vs_lime.ipynb>SHAP vs. LIME</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">3️⃣</td>
+        <td rowspan="2">Calidad y drift</td> 
+        <td><a href=notebooks/clase_03_calidad.ipynb>Chequeos de calidad</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_03_deteccion_drift.ipynb>Detección de drift</a></td>
+    </tr>
     <!--
-    <tr>
-        <td rowspan="2">2️⃣</td>
-        <td rowspan="2">Análisis exploratorio de datos (EDA).<br>
-        Análisis de datos faltantes y outliers.</td>
-        <td><a href=notebooks/clase_02_correlacion.ipynb>Ejemplos de correlación</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_02_intro_EDA.ipynb>Ejemplo de EDA para el dataset Titanic</a></td>
-    </tr>
-    <tr>
-        <td rowspan="3">3️⃣</td>
-        <td rowspan="3">EDA (continuación)</td> 
-        <td><a href=notebooks/clase_03_medidas_asociacion.ipynb>Medidas de asociación de variables</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_03_analisis_faltantes_outliers.ipynb>Análisis de faltantes y outliers</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_03_EDA_ejemplo_SMN.ipynb>Repaso práctico con datos reales del SMN</a></td>
-    </tr>
     <tr>
         <td rowspan="4">4️⃣</td>
         <td rowspan="4">Preprocesamiento y limpieza de datos</td>
