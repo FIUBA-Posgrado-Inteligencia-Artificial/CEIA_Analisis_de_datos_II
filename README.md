@@ -68,21 +68,15 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
     <tr>
         <td><a href=notebooks/clase_03_deteccion_drift.ipynb>Detección de drift</a></td>
     </tr>
+    <tr>
+        <td rowspan="2">4️⃣</td>
+        <td rowspan="2">Detección de outliers multivariados</td>
+        <td><a href=notebooks/clase_04_Isolation_Forest.ipynb>Isolation Forest</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_04_KNN_vs_LOF.ipynb>KNN vs. LOFn</a></td>
+    </tr>
     <!--
-    <tr>
-        <td rowspan="4">4️⃣</td>
-        <td rowspan="4">Preprocesamiento y limpieza de datos</td>
-        <td><a href=notebooks/clase_04_split_y_stratify.ipynb>Intro a ML parte II: split del dataset</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_04_codificacion.ipynb>Codificación</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_04_tratamiento_datos_faltantes.ipynb>Tratamiento de faltantes</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_04_tratamiento_outliers.ipynb>Tratamiento de outliers</a></td>
-    </tr>
     <tr>
         <td rowspan="5">5️⃣</td>
         <td rowspan="5">Procesamiento de datos (continuación)</td>
