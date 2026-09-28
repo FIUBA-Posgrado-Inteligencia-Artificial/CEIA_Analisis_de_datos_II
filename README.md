@@ -22,7 +22,7 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
 
 
 ---
-## 📝 Contenido del Curso
+## 📝 Contenido del curso
 #### Atención! Las notebooks se agregan antes de cada clase
 
 <table>
@@ -76,50 +76,34 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
     <tr>
         <td><a href=notebooks/clase_04_KNN_vs_LOF.ipynb>KNN vs. LOFn</a></td>
     </tr>
-    <!--
     <tr>
-        <td rowspan="5">5️⃣</td>
-        <td rowspan="5">Procesamiento de datos (continuación)</td>
-        <td><a href=otebooks/clase_05_discretizacion.ipynb>Discretización</a></td>
+        <td rowspan="3">5️⃣</td>
+        <td rowspan="3">Reducción de dimensionalidad y visualización avanzada</td>
+        <td><a href=notebooks/clase_05_reduccion_de_dimensionalidad.ipynb>Reducción de dimensionalidad</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_normalizacion_estandarizacion.ipynb>Normalización y estandarización</a></td>
+        <td><a href=notebooks/clase_05_umap_regresion.ipynb>UMAP</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_tratamiento_datos_faltantes_adv.ipynb>Técnicas avanzadas de tratamiento de faltantes</a></td>
+        <td><a href=notebooks/clase_05_mca.ipynb>MCA</a></td>
+    </tr>    
+    <tr>
+        <td rowspan="5">6️⃣</td>
+        <td rowspan="5">Clustering: técnicas, aplicaciones y evaluación</td>
+        <td><a href=notebooks/clase_06_a_kmeans_gmm_jerarquico.ipynb>K-means - GMM -Clustering jerárquico</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_tratamiento_outliers_adv.ipynb>Técnicas avanzadas de tratamiento de outliers</a></td>
+        <td><a href=notebooks/clase_06_b_dbscan_hdbscan.ipynb>DBSCAN - HDBSCAN</a></td>
     </tr>
     <tr>
-        <td><a href=notebooks/clase_05_desbalance.ipynb>Desbalance</a></td>
+        <td><a href=notebooks/clase_06_c_estabilidad.ipynb>Estabilidad</a></td>
     </tr>
     <tr>
-        <td rowspan="1">6️⃣</td>
-        <td rowspan="1">Reducción de la dimensionalidad</td>
-        <td><a href=notebooks/clase_06_seleccion_features.ipynb>Selección de features</a></td>
+        <td><a href=notebooks/clase_06_d_ARI_AMI.ipynb>Evaluación y comparación (ARI, AMI)</a></td>
     </tr>
     <tr>
-        <td rowspan="7">7️⃣</td>
-        <td rowspan="7">Taller práctico y bonus</td>
-        <td><a href=notebooks/clase_06_extraccion_features.ipynb>Extracción de features</a></td>
+        <td><a href=notebooks/clase_06_e_clustering_automoviles.ipynb>Clustering: caso práctico</a></td>
     </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_bonus_EDA_automatico.ipynb>EDA automático</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_bonus_EDA_audio.ipynb>EDA audio</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_bonus_EDA_texto.ipynb>EDA texto</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_bonus_EDA_imagenes.ipynb>EDA imágenes</a></td>
-    </tr>
-    <tr>
-        <td><a href=notebooks/clase_07_bonus_PCA_imagenes.ipynb>PCA aplicado a imágenes</a></td>
-    </tr>
-    -->
 </table>
 
 ---
