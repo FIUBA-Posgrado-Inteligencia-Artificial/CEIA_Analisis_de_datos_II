@@ -104,6 +104,20 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
     <tr>
         <td><a href=notebooks/clase_06_e_clustering_automoviles.ipynb>Clustering: caso práctico</a></td>
     </tr>
+        <tr>
+        <td rowspan="4">7️⃣</td>
+        <td rowspan="4">Feature engineering avanzado y prevención de data leakage</td>
+        <td><a href=notebooks/clase_06_a_target_engineering.ipynb>Transformación de target asimétrica</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_b_transformar_vs_func_perdida.ipynb>Transformaciones de potencia vs manejo con función de error en los modelos</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_c_seleccion_metodos_embebidos.ipynb>Selección de features con métodos embebidos</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_06_d_prevencion_data_leakage.ipynb>Simulación de efectos del data leakage en producción</a></td>
+    </tr>
 </table>
 
 ---
