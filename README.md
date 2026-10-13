@@ -118,6 +118,14 @@ Bienvenidos al repositorio de la materia **Análisis de Datos II**! Aquí encont
     <tr>
         <td><a href=notebooks/clase_06_d_prevencion_data_leakage.ipynb>Simulación de efectos del data leakage en producción</a></td>
     </tr>
+    <tr>
+        <td rowspan="2">8️⃣</td>
+        <td rowspan="2">Auditoría de sesgos y documentación</td>
+        <td><a href=notebooks/clase_08_sesgos.ipynb>Auditoría de sesgos con SHAP</a></td>
+    </tr>
+    <tr>
+        <td><a href=notebooks/clase_08_fairlearn_model_card.ipynb>Auditoría con Fairlearn y model card automática</a></td>
+    </tr>
 </table>
 
 ---
